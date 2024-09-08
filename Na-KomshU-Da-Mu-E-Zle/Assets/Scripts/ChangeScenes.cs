@@ -15,7 +15,7 @@ public class ChangeScenes : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        fgdhsfhjgdfgdhnjgfhjk
+        int c = 10;
     }
 
     // Update is called once per frame
