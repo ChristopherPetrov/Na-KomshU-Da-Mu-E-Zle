@@ -13,10 +13,6 @@ public class ChangeScenes : MonoBehaviour
         SceneManager.LoadScene(newScene);
     }
     // Start is called before the first frame update
-    void Start()
-    {
-        fgdhsfhjgdfgdhnjgfhjk
-    }
 
     // Update is called once per frame
     void Update()
