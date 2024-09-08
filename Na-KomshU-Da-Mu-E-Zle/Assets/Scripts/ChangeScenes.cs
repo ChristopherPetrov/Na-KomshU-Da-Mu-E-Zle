@@ -21,6 +21,6 @@ public class ChangeScenes : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Debug.LogWarning("asdf");
     }
 }
